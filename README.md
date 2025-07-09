@@ -34,7 +34,7 @@ python secure_vault.py
 ## 📦 Packaging to EXE (Optional)
 
 You can package this app as `.exe` using:
-pyinstaller --onefile --windowed --icon=icon.ico secure_vault.py
+pyinstaller --onefile --windowed --icon=vault.ico secure_vault.py
 
 ## 🙋‍♂️ Author
 
